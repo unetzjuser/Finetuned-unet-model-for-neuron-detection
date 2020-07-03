@@ -18,9 +18,9 @@ https://lmb.informatik.uni-freiburg.de/resources/opensource/unet/#detection
 ### Examples:
 An immunostained brain section showing c-fos-positive neurons in the piriform cortex from a mouse exposed to environmental enrichment.
 <p align="center">
-   <img src="https://github.com/Finetuned-U-Net-segmentation-model-for-c-fos-neuron-detection/raw/master/Original_preview.png" width="300" height="375">
+   <img src="https://github.com/Finetuned-unet-model-for-neuron-detection/raw/master/Original_preview.png" width="300" height="375">
 
 The original image superimposed with segmented neurons (shown in red).
 <p align="center">
-   <img src="https://github.com/Finetuned-U-Net-segmentation-model-for-c-fos-neuron-detection/Merge_preview.png" width="300" height="375">
+   <img src="https://github.com/Finetuned-unet-model-for-neuron-detection/Merge_preview.png" width="300" height="375">
 
