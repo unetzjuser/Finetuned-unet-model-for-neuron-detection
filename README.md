@@ -1,4 +1,4 @@
-# Finetuned-U-Net-segmentation-model-for-c-fos-neuron-detection
+# Finetuned-unet-model-for-neuron-detection
 A finetuned model to segment c-fos-immunostained neurons
 
 ### This finetuned model is based on an established pre-trained 2D model, which can be downloaded here:
@@ -22,5 +22,5 @@ An immunostained brain section showing c-fos-positive neurons in the piriform co
 
 The original image superimposed with segmented neurons (shown in red).
 <p align="center">
-   <img src="https://github.com/Finetuned-unet-model-for-neuron-detection/Merge_preview.png" width="300" height="375">
+   <img src="https://github.com/Finetuned-unet-model-for-neuron-detection/raw/master/Merge_preview.png" width="300" height="375">
 
