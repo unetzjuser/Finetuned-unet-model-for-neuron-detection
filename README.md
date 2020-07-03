@@ -1,7 +1,7 @@
-# Finetuned-U-Net-segmentation-Model-for-c-fos-neuron-detection
+# Finetuned-U-Net-segmentation-model-for-c-fos-neuron-detection
 A finetuned model to segment c-fos-immunostained neurons
 
-### This model is finetuned based on an established pre-trained 2D model, which can be downloaded here:
+### This finetuned model is based on an established pre-trained 2D model, which can be downloaded here:
 https://lmb.informatik.uni-freiburg.de/resources/opensource/unet/2d_cell_net_v0_model.zip
 
 ### For further details, please refer to the original publication by Thorsten Falk and colleagues:
