@@ -13,4 +13,12 @@ https://github.com/lmb-freiburg/Unet-Segmentation
 https://lmb.informatik.uni-freiburg.de/resources/opensource/unet/#detection
 
 
-### This finetuned model has been used to detect c-fos-immunostained neurons (both by IHC and IF) in brain slices. For accurate detection of neurons, manual correction is needed.
+### This finetuned model has been used to detect c-fos-immunostained neurons (both by IHC and IF) in brain slices. It is also possible to segment neurons labeled by other markers (e.g., EGFP). However, for accurate detection of neurons, manual correction is needed.
+
+### Examples:
+An immunostained brain section showing c-fos-positive neurons in the piriform cortex from a mouse exposed to environmental enrichment.
+![An immunostained brain section showing c-fos-positive neurons in the piriform cortex from a mouse exposed to environmental enrichment](F:\Image Files\Github\MME No.14 1-R c-fos.tif)
+
+The original image superimposed with segmented neurons (shown in red).
+![Original and segmented merge](F:\Image Files\Github\MME No.14 1-R Merge.tif)
+
