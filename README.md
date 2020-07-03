@@ -15,10 +15,10 @@ https://github.com/lmb-freiburg/Unet-Segmentation
 https://lmb.informatik.uni-freiburg.de/resources/opensource/unet/#detection
 
 ### Examples:
-An immunostained section showing c-fos-expressing neurons in the piriform cortex from a mouse exposed to environmental enrichment.
+* An immunostained section from an adult mouse exposed to environmental enrichment shows c-fos-expressing neurons in the piriform cortex.
 <p align="center">
    <img src="https://raw.githubusercontent.com/unetzjuser/Finetuned-unet-model-for-neuron-detection/master/Original_preview.png?raw=true" width="300" height="375" title="Original_preview.png" />
 
-The original image superimposed with segmented neurons (shown in red).
+* The original image superimposed with segmented neurons (shown in red).
 <p align="center">
    <img src="https://raw.githubusercontent.com/unetzjuser/Finetuned-unet-model-for-neuron-detection/master/Merge_preview.png?raw=true" width="300" height="375" title="Merge_preview.png" />
