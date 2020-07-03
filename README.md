@@ -22,5 +22,5 @@ An immunostained brain section showing c-fos-positive neurons in the piriform co
 
 The original image superimposed with segmented neurons (shown in red).
 
-![image](master/Pir c-fos_merge.tif)
+![image](https://github.com/unetzjuser/Finetuned-U-Net-segmentation-model-for-c-fos-neuron-detection/Pir%20c-fos_merge.tif)
 
