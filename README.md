@@ -9,8 +9,9 @@ This finetuned model has been used to detect c-fos-immunostained neurons (both b
 ### How to use?
 * Download and install Fiji: https://imagej.net/Fiji/Downloads
 * Setup the backend (caffe_unet) and the frontend (Fiji with the U-Net plugin). Please follow the installation instructions: https://lmb.informatik.uni-freiburg.de/resources/opensource/unet/#detection
-* Download the "2d_cell_net_v4-cfos.modeldef" file and the "2d_cell_net_v4-cfos.caffemodel.zip" file from this repository. Put the .modeldef file and the unzipped .caffemodel file to a specific folder.
-* Open image(s) in Fiji and run the U-Net plugin.
+* Download the "2d_cell_net_v4-cfos.modeldef" file and the "2d_cell_net_v4-cfos.caffemodel.zip" file from this repository. Move the .modeldef file and the unzipped .caffemodel file to a specific folder.
+* Open image(s) in Fiji and run the U-Net plugin. Note that the scale in the image (if there is any) should be removed before running the U-Net plugin: Fiji--Plugins--Set Scale--Click to Remove Scale. Otherwise the image will be scaled during segmentation and the results are not optimal.
+
 <p align="center">
    <img src="https://raw.githubusercontent.com/unetzjuser/Finetuned-unet-model-for-neuron-detection/master/Fiji%20screenshot.jpg?raw=true" />
 
