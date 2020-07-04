@@ -12,7 +12,8 @@ This finetuned model has been used to detect c-fos-immunostained neurons (both b
 * Download the "2d_cell_net_v4-cfos.modeldef" file and the "2d_cell_net_v4-cfos.caffemodel.zip" file from this repository. Put the .modeldef file and the unzipped .caffemodel file to a specific folder.
 * Open image(s) in Fiji and run the U-Net plugin.
 <p align="center">
-   <img src="https://raw.githubusercontent.com/unetzjuser/Finetuned-unet-model-for-neuron-detection/master/Fiji%20screenshot.jpgg?raw=true" />
+   <img src="https://raw.githubusercontent.com/unetzjuser/Finetuned-unet-model-for-neuron-detection/master/Fiji%20screenshot.jpg?raw=true" />
+
 ### For further information:
 https://github.com/lmb-freiburg/Unet-Segmentation
 
